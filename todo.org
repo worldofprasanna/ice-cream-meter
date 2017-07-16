@@ -1,0 +1,11 @@
+* Setup tasks
+  - [ ] setup virtualenv
+  - [ ] setup base application
+  - [ ] Update readme with instructions to run
+  - [ ] Create script file for running the application
+
+* Base Application
+  - [ ] Create basic page to view the users sorted by the points
+  - [ ] Create page to add entry for users who committed crime
+  - [ ] Create page to view the crime with its corresponding points
+  - [ ] Create page to add crime with points
